@@ -4,7 +4,7 @@ A lightweight Python-based utility to track real-time Ethereum market data for B
 
 ## Features
 - **Real-time Price Tracking:** Fetches current ETH/USD rates via CoinGecko API.
-- **Developer-Friendly:** Designed to be easily integrated into larger on-chain monitoring systems..
+- **Developer-Friendly:** Designed to be easily integrated into larger on-chain monitoring systems...
 
 ## Tech Stack
 - Python 3.x
